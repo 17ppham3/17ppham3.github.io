@@ -3,7 +3,10 @@ body{
     font-size: 24px;
     color: maroon;
     text-align: center;
-    background-image: url("jellykid.gif");
+}
+body{
+    background-image: url("images/jellykid.gif");
+    background-repeat: repeat;
 }
 h1{
     font-family: Lobster;
