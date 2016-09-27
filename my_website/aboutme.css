@@ -2,14 +2,18 @@ body{
     font-family: Lobster;
     font-size: 24px;
     text-align: center;
-    color: maroon;
+    color: white;
+}
+body{
+    background-image: url("images/jellykid.gif");
+    background-repeat: repeat;
 }
 h1{
     font-family: Lobster;
     font-size: 2.0em;
     text-align: center;
     text-shadow: silver;
-    color: maroon;
+    color: white;
 }
 table{
     margin-left: auto;
