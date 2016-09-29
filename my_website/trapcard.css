@@ -1,0 +1,17 @@
+body{
+    font-family: Lobster;
+    font-size: 24px;
+    color: maroon;
+    text-align: center;
+}
+body{
+    background-image: url("images/trapcard.png");
+    background-repeat: repeat;
+}
+h1{
+    font-family: Lobster;
+    font-size: 2.5em;
+    text-shadow: silver;
+    text-align: center;
+    color: maroon;
+}

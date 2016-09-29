@@ -8,6 +8,25 @@ body{
     background-image: url("images/jellykid.gif");
     background-repeat: repeat;
 }
+#navigation {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+#navigation li {
+    float: left;
+}
+
+#navigation li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
 h1{
     font-family: Lobster;
     font-size: 2.0em;
@@ -31,11 +50,17 @@ th{
     color: #ffffff;
     background-color: navy;
 }
-ul{
+#hobbies{
     margin-left: auto;
     margin-right: auto;
 }
-ol{
+li.hobbies{
+    display: list-item;
+}
+#songs{
     margin-left: auto;
     margin-right: auto;
+}
+li.songs{
+    display: list-item;
 }
