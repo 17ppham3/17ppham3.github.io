@@ -1,19 +1,20 @@
 body{
     font-family: Lobster;
     font-size: 24px;
-    color: white;
+    color: black;
     text-align: center;
 }
 body{
-    background-image: url("images/jellykid.gif");
+    background-image: url("images/tsumtsum.gif");
     background-repeat: repeat;
+    background-size: 25%;
 }
 h1{
     font-family: Lobster;
     font-size: 38px;
     text-shadow: silver;
     text-align: center;
-    color: white;
+    color: black;
 }
 ul {
     list-style-type: none;
