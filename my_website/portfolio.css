@@ -18,6 +18,7 @@ ul {
 
 li {
     float: left;
+    font-size-adjust: 2.0em;
 }
 
 li a {
