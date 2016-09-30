@@ -1,6 +1,6 @@
 body{
     font-family: Lobster;
-    font-size: 24px;
+    font-size: 1.8em;
     color: black;
     text-align: center;
 }
@@ -11,7 +11,7 @@ body{
 }
 h1{
     font-family: Lobster;
-    font-size: 38px;
+    font-size: 2.5em;
     text-shadow: silver;
     text-align: center;
     color: black;
